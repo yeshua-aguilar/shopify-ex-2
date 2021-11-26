@@ -51,6 +51,7 @@
                         <th>ESTADO</th>
                         <th>USER</th>
                         <th>ACCIONES</th>
+                        <th>relleno</th>
                     </tr>
                 </thead>
                 <tbody>
